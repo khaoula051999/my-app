@@ -19,3 +19,16 @@ public class AppTest
     }
 
 }
+
+public class AppTest1 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+
+}
